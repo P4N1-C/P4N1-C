@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 My portfolio link [https://rudraksharamanraturi.vercel.app](https://rudraksharamanraturi.vercel.app)
+- 👨‍💻 My portfolio link [Here](https://rudraksharamanraturi.vercel.app)
 
 - 💬 Ask me about **Web development, DSA, electronics**
 
 - 📫 How to reach me **raturirudraksha23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uzA4COCM78GnxctxSdY-Q6Sm7t-Z9kM-/view?usp=drive_link](https://drive.google.com/file/d/1uzA4COCM78GnxctxSdY-Q6Sm7t-Z9kM-/view?usp=drive_link)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1uzA4COCM78GnxctxSdY-Q6Sm7t-Z9kM-/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
