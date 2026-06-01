@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudraksha Raman Raturi</h1>
 <h3 align="center">A keen learner</h3>
 
-- 🔭 I’m currently working on [Pairly](https://github.com/P4N1-C/torrent)
+- 🔭 I’m currently working on [Torrent](https://github.com/P4N1-C/torrent)
 
 - 🌱 I’m currently learning **AI/ML**
 
